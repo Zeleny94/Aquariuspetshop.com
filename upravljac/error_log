@@ -1,0 +1,539 @@
+[13-Dec-2016 21:51:07 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:07 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:08 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:08 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:09 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:09 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:09 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:09 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:10 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:10 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:11 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:11 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:11 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:11 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:12 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:12 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:17 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:17 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:18 Europe/Belgrade] PHP Warning:  require_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:18 Europe/Belgrade] PHP Fatal error:  require_once(): Failed opening required './konfiguracija.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:35 Europe/Belgrade] PHP Warning:  include_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:35 Europe/Belgrade] PHP Warning:  include_once(): Failed opening './konfiguracija.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:35 Europe/Belgrade] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:3) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/session.php on line 3
+[13-Dec-2016 21:51:37 Europe/Belgrade] PHP Warning:  include_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:37 Europe/Belgrade] PHP Warning:  include_once(): Failed opening './konfiguracija.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:37 Europe/Belgrade] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:3) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/session.php on line 3
+[13-Dec-2016 21:51:38 Europe/Belgrade] PHP Warning:  include_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:38 Europe/Belgrade] PHP Warning:  include_once(): Failed opening './konfiguracija.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 3
+[13-Dec-2016 21:51:38 Europe/Belgrade] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:3) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/session.php on line 3
+[13-Dec-2016 22:28:55 Europe/Belgrade] PHP Fatal error:  Call to a member function query() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/pocetna.php on line 8
+[13-Dec-2016 22:29:48 Europe/Belgrade] PHP Fatal error:  Call to a member function query() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/pocetna.php on line 15
+[13-Dec-2016 22:29:49 Europe/Belgrade] PHP Fatal error:  Call to a member function query() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/pocetna.php on line 15
+[13-Dec-2016 22:29:51 Europe/Belgrade] PHP Fatal error:  Call to a member function query() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/pocetna.php on line 15
+[13-Dec-2016 22:30:00 Europe/Belgrade] PHP Fatal error:  Call to a member function query() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/pocetna.php on line 15
+[13-Dec-2016 22:30:10 Europe/Belgrade] PHP Fatal error:  Call to a member function query() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/pocetna.php on line 8
+[13-Dec-2016 22:30:24 Europe/Belgrade] PHP Fatal error:  Call to a member function query() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/pocetna.php on line 13
+[13-Dec-2016 23:11:46 Europe/Belgrade] PHP Fatal error:  Call to a member function query() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/pocetna.php on line 13
+[13-Dec-2016 23:21:46 Europe/Belgrade] PHP Warning:  include(kategorije.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 73
+[13-Dec-2016 23:21:46 Europe/Belgrade] PHP Warning:  include(kategorije.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 73
+[13-Dec-2016 23:21:46 Europe/Belgrade] PHP Warning:  include(): Failed opening 'kategorije.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 73
+[13-Dec-2016 23:21:47 Europe/Belgrade] PHP Warning:  include(podkategorije.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 75
+[13-Dec-2016 23:21:47 Europe/Belgrade] PHP Warning:  include(podkategorije.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 75
+[13-Dec-2016 23:21:47 Europe/Belgrade] PHP Warning:  include(): Failed opening 'podkategorije.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 75
+[13-Dec-2016 23:21:47 Europe/Belgrade] PHP Warning:  include(ppkategorije.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 77
+[13-Dec-2016 23:21:47 Europe/Belgrade] PHP Warning:  include(ppkategorije.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 77
+[13-Dec-2016 23:21:47 Europe/Belgrade] PHP Warning:  include(): Failed opening 'ppkategorije.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 77
+[13-Dec-2016 23:21:48 Europe/Belgrade] PHP Warning:  include(proizvodi.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 79
+[13-Dec-2016 23:21:48 Europe/Belgrade] PHP Warning:  include(proizvodi.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 79
+[13-Dec-2016 23:21:48 Europe/Belgrade] PHP Warning:  include(): Failed opening 'proizvodi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 79
+[15-Dec-2016 00:56:50 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 19
+[15-Dec-2016 01:08:16 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:08:24 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:08:43 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:08:44 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:08:45 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:09:05 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:09:05 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:09:10 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:09:10 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:09:11 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:09:12 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:09:25 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:09:26 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:09:58 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 28
+[15-Dec-2016 01:10:07 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:10:25 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'background_image' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:27
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(27): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(78): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 27
+[15-Dec-2016 01:11:23 Europe/Belgrade] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:25) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 28
+[15-Dec-2016 01:11:24 Europe/Belgrade] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:25) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 28
+[15-Dec-2016 01:11:31 Europe/Belgrade] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:25) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 28
+[15-Dec-2016 02:16:35 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '$naslov_konfiguracija' (T_VARIABLE) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 15
+[15-Dec-2016 02:16:38 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '$naslov_konfiguracija' (T_VARIABLE) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 15
+[15-Dec-2016 02:16:43 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '$naslov_konfiguracija' (T_VARIABLE) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 15
+[15-Dec-2016 02:16:49 Europe/Belgrade] PHP Fatal error:  Call to a member function execute() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 15
+[15-Dec-2016 02:16:58 Europe/Belgrade] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 16
+[15-Dec-2016 02:17:04 Europe/Belgrade] PHP Fatal error:  Call to a member function execute() on a non-object in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 15
+[22-Dec-2016 00:41:21 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:41:21 Europe/Belgrade] PHP Warning:  move_uploaded_file(images/proizvodi/bg8.png): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 24
+[22-Dec-2016 00:41:21 Europe/Belgrade] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFaca4l' to 'images/proizvodi/bg8.png' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 24
+[22-Dec-2016 00:41:40 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:44:18 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:45:09 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:45:30 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:45:34 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:47:02 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:47:20 Europe/Belgrade] PHP Warning:  POST Content-Length of 232876100 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Dec-2016 00:47:28 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:47:58 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:49:16 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[22-Dec-2016 00:50:06 Europe/Belgrade] PHP Strict Standards:  Only variables should be passed by reference in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[23-Dec-2016 01:25:41 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '$podkategorije_lista' (T_VARIABLE) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 29
+[23-Dec-2016 01:25:50 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELCET * FROM podkategorije' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php:28
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php(28): PDO->query('SELCET * FROM p...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 28
+[23-Dec-2016 01:26:00 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELCET * FROM podkategorija' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php:28
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php(28): PDO->query('SELCET * FROM p...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 28
+[23-Dec-2016 01:26:43 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELCET * FROM kat_pkat' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php:28
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php(28): PDO->query('SELCET * FROM k...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 28
+[23-Dec-2016 01:27:04 Europe/Belgrade] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELCET * FROM kat_pkat' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php:28
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php(28): PDO->query('SELCET * FROM k...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 28
+[24-Dec-2016 23:43:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jokerrs_gvozdjar.konfiguracija2' doesn't exist' in /home/jokerrs/public_html/sajtovi/gvozdjara/konfiguracija.php:10
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/konfiguracija.php(10): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(5): include_once('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/konfiguracija.php on line 10
+[24-Dec-2016 23:43:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jokerrs_gvozdjar.konfiguracija2' doesn't exist' in /home/jokerrs/public_html/sajtovi/gvozdjara/konfiguracija.php:10
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/konfiguracija.php(10): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(5): include_once('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/konfiguracija.php on line 10
+[24-Dec-2016 23:43:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jokerrs_gvozdjar.konfiguracija2' doesn't exist' in /home/jokerrs/public_html/sajtovi/gvozdjara/konfiguracija.php:10
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/konfiguracija.php(10): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(5): include_once('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/konfiguracija.php on line 10
+[25-Dec-2016 00:03:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 38
+[25-Dec-2016 00:04:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 38
+[25-Dec-2016 00:22:26 UTC] PHP Parse error:  syntax error, unexpected '$opsta_konf_desid' (T_VARIABLE) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 38
+[25-Dec-2016 00:22:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELEC * FROM kategorija' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php:37
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php(37): PDO->query('SELEC * FROM ka...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(89): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 37
+[25-Dec-2016 00:22:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELEC * FROM kategorija' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php:37
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php(37): PDO->query('SELEC * FROM ka...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(89): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 37
+[25-Dec-2016 00:24:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELEC * FROM kategorija' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php:37
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php(37): PDO->query('SELEC * FROM ka...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(89): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 37
+[25-Dec-2016 00:24:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELEC * FROM kategorija' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php:37
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php(37): PDO->query('SELEC * FROM ka...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(89): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 37
+[25-Dec-2016 00:24:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELEC * FROM kategorija' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php:37
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php(37): PDO->query('SELEC * FROM ka...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(89): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 37
+[25-Dec-2016 00:25:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELEC * FROM kategorija' at line 1' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php:37
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php(37): PDO->query('SELEC * FROM ka...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(89): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 37
+[25-Dec-2016 15:17:22 UTC] PHP Parse error:  syntax error, unexpected 'kategorija' (T_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 6
+[25-Dec-2016 15:17:53 UTC] PHP Parse error:  syntax error, unexpected 'kategorija' (T_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 6
+[25-Dec-2016 15:18:12 UTC] PHP Parse error:  syntax error, unexpected 'kategorija' (T_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 6
+[25-Dec-2016 15:19:16 UTC] PHP Parse error:  syntax error, unexpected 'kategorija' (T_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[25-Dec-2016 15:19:34 UTC] PHP Parse error:  syntax error, unexpected 'kategorija' (T_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 11
+[25-Dec-2016 15:40:44 UTC] PHP Fatal error:  Call to undefined method PDO::prepate() in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 27
+[25-Dec-2016 15:40:47 UTC] PHP Fatal error:  Call to undefined method PDO::prepate() in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 27
+[25-Dec-2016 15:40:56 UTC] PHP Fatal error:  Call to undefined method PDO::prepate() in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 27
+[25-Dec-2016 15:59:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 41
+[25-Dec-2016 15:59:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 41
+[25-Dec-2016 15:59:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 41
+[25-Dec-2016 15:59:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 41
+[25-Dec-2016 16:03:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 14
+[25-Dec-2016 16:03:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 14
+[25-Dec-2016 16:10:43 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 50
+[25-Dec-2016 16:10:44 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 50
+[25-Dec-2016 16:10:51 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 50
+[25-Dec-2016 16:39:36 UTC] PHP Parse error:  syntax error, unexpected 'Are' (T_STRING), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 40
+[25-Dec-2016 16:39:43 UTC] PHP Parse error:  syntax error, unexpected 'Are' (T_STRING), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 40
+[25-Dec-2016 16:44:36 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 41
+[25-Dec-2016 17:59:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:00:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:02:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:04:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:07:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:07:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:08:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:08:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:09:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:09:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:64
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(64): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 64
+[25-Dec-2016 18:14:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:62
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(62): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 62
+[25-Dec-2016 18:18:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:65
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(65): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 65
+[25-Dec-2016 18:18:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:65
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(65): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 65
+[25-Dec-2016 18:19:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:65
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(65): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 65
+[25-Dec-2016 18:20:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:65
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(65): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 65
+[25-Dec-2016 18:25:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php:65
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php(65): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(81): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 65
+[25-Dec-2016 20:23:29 UTC] PHP Warning:  move_uploaded_file(./images/kat_slike/test.png): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 146
+[25-Dec-2016 20:23:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplhXiSA' to './images/kat_slike/test.png' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 146
+[25-Dec-2016 20:41:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 165
+[25-Dec-2016 20:41:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 165
+[25-Dec-2016 20:44:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 163
+[25-Dec-2016 20:45:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 163
+[25-Dec-2016 20:46:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 163
+[25-Dec-2016 20:47:48 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 163
+[25-Dec-2016 20:47:49 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 163
+[25-Dec-2016 20:48:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 163
+[25-Dec-2016 21:12:27 UTC] PHP Parse error:  syntax error, unexpected '$za_delete' (T_VARIABLE) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 117
+[25-Dec-2016 21:13:23 UTC] PHP Fatal error:  Call to undefined function delete() in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 117
+[25-Dec-2016 21:16:13 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 118
+[25-Dec-2016 21:18:41 UTC] PHP Warning:  unlink(/home/jokerrs/public_html/sajtovi/gvozdjara/upravljac../): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 118
+[25-Dec-2016 21:28:32 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 143
+[25-Dec-2016 21:28:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 143
+[25-Dec-2016 21:28:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 143
+[25-Dec-2016 21:29:48 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 143
+[25-Dec-2016 21:31:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 130
+[25-Dec-2016 21:31:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 130
+[25-Dec-2016 21:31:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 130
+[25-Dec-2016 21:37:02 UTC] PHP Warning:  unlink(/home/jokerrs/public_html/sajtovi/gvozdjara/upravljac../): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 117
+[25-Dec-2016 21:37:14 UTC] PHP Warning:  unlink(/home/jokerrs/public_html/sajtovi/gvozdjara/upravljac../): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 117
+[25-Dec-2016 21:38:32 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 117
+[25-Dec-2016 21:40:57 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 116
+[25-Dec-2016 22:18:51 UTC] PHP Warning:  chown(): Operation not permitted in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 116
+[25-Dec-2016 22:18:51 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 117
+[25-Dec-2016 22:22:11 UTC] PHP Warning:  chown(): Operation not permitted in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 116
+[25-Dec-2016 22:22:11 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 117
+[25-Dec-2016 22:24:36 UTC] PHP Warning:  chown(): Operation not permitted in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 116
+[25-Dec-2016 22:24:36 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 117
+[25-Dec-2016 22:25:24 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 117
+[25-Dec-2016 22:49:33 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 169
+[25-Dec-2016 22:49:45 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 169
+[25-Dec-2016 22:51:30 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 169
+[25-Dec-2016 22:53:47 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 169
+[25-Dec-2016 22:56:38 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 169
+[25-Dec-2016 23:04:48 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 170
+[25-Dec-2016 23:04:48 UTC] PHP Fatal error:  Function name must be a string in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 198
+[25-Dec-2016 23:06:20 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 170
+[25-Dec-2016 23:07:46 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 170
+[25-Dec-2016 23:51:44 UTC] PHP Fatal error:  Call to a member function fetch() on null in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 57
+[25-Dec-2016 23:52:32 UTC] PHP Fatal error:  Call to a member function fetch() on null in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 57
+[25-Dec-2016 23:53:38 UTC] PHP Fatal error:  Call to a member function fetch() on null in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 57
+[26-Dec-2016 00:35:51 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 85
+[26-Dec-2016 00:35:53 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 85
+[26-Dec-2016 00:35:57 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 85
+[26-Dec-2016 00:35:59 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 85
+[26-Dec-2016 00:36:50 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 85
+[26-Dec-2016 00:52:54 UTC] PHP Fatal error:  Cannot redeclare greska() (previously declared in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:91) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 218
+[26-Dec-2016 00:52:56 UTC] PHP Fatal error:  Cannot redeclare greska() (previously declared in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:91) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 218
+[26-Dec-2016 00:53:05 UTC] PHP Fatal error:  Cannot redeclare greska() (previously declared in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:91) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 218
+[26-Dec-2016 00:53:30 UTC] PHP Fatal error:  Cannot redeclare greska() (previously declared in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php:91) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/kategorije.php on line 206
+[26-Dec-2016 00:57:32 UTC] PHP Warning:  unlink(../http://placehold.it/750x500): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 122
+[26-Dec-2016 01:00:26 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:01:27 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:01:27 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 153
+[26-Dec-2016 01:01:58 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:01:58 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 153
+[26-Dec-2016 01:03:04 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:03:10 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:04:25 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:04:25 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 154
+[26-Dec-2016 01:05:15 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:05:37 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:06:28 UTC] PHP Warning:  unlink(../images/pod_kat/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:07:09 UTC] PHP Warning:  unlink(../http://placehold.it/750x500): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 01:07:16 UTC] PHP Warning:  unlink(../http://placehold.it/750x500): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 133
+[26-Dec-2016 13:08:34 UTC] PHP Parse error:  syntax error, unexpected '$test_kat' (T_VARIABLE) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 14
+[26-Dec-2016 13:08:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jokerrs_gvozdjar.kategorije' doesn't exist' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php:13
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php(13): PDO->query('SELECT * FROM k...')
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(85): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 13
+[26-Dec-2016 13:15:55 UTC] PHP Parse error:  syntax error, unexpected 'id_kat' (T_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 19
+[26-Dec-2016 13:17:22 UTC] PHP Parse error:  syntax error, unexpected 'id_kat' (T_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 19
+[26-Dec-2016 13:17:50 UTC] PHP Parse error:  syntax error, unexpected 'id_kat' (T_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 19
+[27-Dec-2016 00:29:11 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 54
+[27-Dec-2016 00:29:41 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 54
+[27-Dec-2016 00:29:47 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 54
+[27-Dec-2016 00:30:18 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 54
+[27-Dec-2016 00:30:52 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 54
+[27-Dec-2016 00:32:19 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 54
+[28-Dec-2016 00:02:16 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 12
+[28-Dec-2016 00:02:38 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 12
+[28-Dec-2016 00:42:57 UTC] PHP Warning:  include_once(./konfiguracija.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/index.php on line 10
+[28-Dec-2016 00:42:57 UTC] PHP Warning:  include_once(): Failed opening './konfiguracija.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/index.php on line 10
+[29-Dec-2016 22:26:13 UTC] PHP Warning:  unlink(../images/kat_slike/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 204
+[29-Dec-2016 22:39:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 42
+[29-Dec-2016 22:39:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 42
+[29-Dec-2016 22:45:40 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 136
+[29-Dec-2016 22:45:42 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 136
+[29-Dec-2016 22:45:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 136
+[29-Dec-2016 22:45:57 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 136
+[29-Dec-2016 22:45:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 136
+[29-Dec-2016 22:53:48 UTC] PHP Warning:  unlink(../images/kat_slike/OKOV ZA VRATA.jpg): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 233
+[12-Jan-2017 00:18:34 UTC] PHP Warning:  unlink(../http://placehold.it/600x600): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/podkategorije.php on line 233
+[12-Jan-2017 00:31:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 50
+[12-Jan-2017 00:32:01 UTC] PHP Parse error:  syntax error, unexpected ''>Dinari</optnion>'' (T_CONSTANT_ENCAPSED_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 51
+[12-Jan-2017 00:32:02 UTC] PHP Parse error:  syntax error, unexpected ''>Dinari</optnion>'' (T_CONSTANT_ENCAPSED_STRING) in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/konfiguracija-sajta.php on line 51
+[12-Jan-2017 01:35:19 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 95
+[12-Jan-2017 01:35:42 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 95
+[12-Jan-2017 01:36:31 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 95
+[12-Jan-2017 01:38:25 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 95
+[12-Jan-2017 01:58:02 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 139
+[12-Jan-2017 01:58:11 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 139
+[12-Jan-2017 01:59:10 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 242
+[12-Jan-2017 01:59:20 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 242
+[15-Jan-2017 03:55:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_ppkat' in 'field list'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:24
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(24): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 24
+[15-Jan-2017 03:57:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_ppkat' in 'field list'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:24
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(24): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 24
+[15-Jan-2017 03:58:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_ppkat' in 'field list'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:24
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(24): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 24
+[15-Jan-2017 04:01:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:23
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(23): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 23
+[15-Jan-2017 04:18:52 UTC] PHP Parse error:  syntax error, unexpected ''</option>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 66
+[15-Jan-2017 04:18:54 UTC] PHP Parse error:  syntax error, unexpected ''</option>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 66
+[15-Jan-2017 04:19:06 UTC] PHP Parse error:  syntax error, unexpected ''</option>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 66
+[15-Jan-2017 04:19:08 UTC] PHP Parse error:  syntax error, unexpected ''</option>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 66
+[15-Jan-2017 04:25:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 67
+[15-Jan-2017 04:25:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 67
+[15-Jan-2017 05:19:44 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 73
+[15-Jan-2017 05:20:24 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 73
+[15-Jan-2017 05:42:16 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 82
+[15-Jan-2017 10:06:37 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 252
+[15-Jan-2017 10:06:43 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 252
+[15-Jan-2017 10:07:21 UTC] PHP Warning:  unlink(../): Is a directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/ppkategorije.php on line 252
+[15-Jan-2017 10:16:28 UTC] PHP Warning:  unlink(../images/pod_kat/BOJE I LAKOVI.png): No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 431
+[15-Jan-2017 10:20:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_proizv' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:448
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(448): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 448
+[15-Jan-2017 10:20:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_proizv' in 'where clause'' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php:448
+Stack trace:
+#0 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php(448): PDOStatement->execute()
+#1 /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php(83): include('/home/jokerrs/p...')
+#2 {main}
+  thrown in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 448
+[15-Jan-2017 10:26:51 UTC] PHP Fatal error:  Undefined class constant 'PARAM_INI' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 446
+[15-Jan-2017 10:53:16 UTC] PHP Fatal error:  Undefined class constant 'PARAM_INI' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 485
+[15-Jan-2017 11:22:41 UTC] PHP Fatal error:  Undefined class constant 'PARAM_INI' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 485
+[15-Jan-2017 11:28:00 UTC] PHP Fatal error:  Undefined class constant 'PARAM_INI' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 485
+[15-Jan-2017 11:28:48 UTC] PHP Fatal error:  Undefined class constant 'PARAM_INI' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 485
+[15-Jan-2017 11:49:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 404
+[15-Jan-2017 11:58:58 UTC] PHP Fatal error:  Undefined class constant 'PARAM_INI' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 476
+[15-Jan-2017 12:02:32 UTC] PHP Fatal error:  Undefined class constant 'PARAM_INI' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/proizvodi.php on line 476
+[15-Jan-2017 16:33:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 87
+[15-Jan-2017 16:33:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 87
+[15-Jan-2017 16:33:44 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 87
+[15-Jan-2017 16:33:47 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 87
+[15-Jan-2017 16:34:11 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 87
+[15-Jan-2017 16:34:12 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 87
+[15-Jan-2017 16:34:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 87
+[15-Jan-2017 16:34:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 87
+[15-Jan-2017 16:35:03 UTC] PHP Warning:  include(profil-sajta.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 88
+[15-Jan-2017 16:35:03 UTC] PHP Warning:  include(profil-sajta.php): failed to open stream: No such file or directory in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 88
+[15-Jan-2017 16:35:03 UTC] PHP Warning:  include(): Failed opening 'profil-sajta.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jokerrs/public_html/sajtovi/gvozdjara/upravljac/home.php on line 88

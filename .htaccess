@@ -1,0 +1,19 @@
+ErrorDocument 404 http://aquariuspetshop.com/404
+Options -Indexes
+DirectoryIndex index.php
+
+RewriteEngine on
+
+RewriteRule ^404$ index.php?404=404
+RewriteRule ^kontakt$ index.php?page=kontakt
+RewriteRule ^kako-do-nas$ index.php?page=kako-do-nas
+RewriteRule ^akcije$ index.php?page=akcije
+RewriteRule ^([0-9]+)/([a-zA-Z]+)$ index.php?id_kat=$1&kategorija=$2 [NC,L]
+RewriteRule ^([a-zA-Z]+)/([a-zA-Z_-]+)/([0-9]+)$ index.php?kategorija=$1&podkategorija=$2&id_pkat=$3 [NC,L]  
+RewriteRule ^([a-zA-Z]+)/([a-zA-Z_-]+)/([0-9]+)/([0-9]+)$ index.php?kategorija=$1&podkategorija=$2&id_pkat=$3&strana=$4 [NC,L] 
+RewriteRule ^([a-zA-Z]+)/([a-zA-Z_-]+)/([0-9]+)/([a-zA-Z_-]+)$ index.php?kategorija=$1&podkategorija=$2&id_ppkat=$3&ppkat=$4 [NC,L]
+RewriteRule ^([a-zA-Z]+)/([a-zA-Z_-]+)/([0-9]+)/([a-zA-Z_-]+)/([0-9]+)$ index.php?kategorija=$1&podkategorija=$2&id_ppkat=$3&ppkat=$4&strana=$5 [NC,L]
+RewriteRule ^([a-zA-Z]+)/([a-zA-Z_-]+)/([a-zA-Z_-]+)/([0-9]+)/([0-9a-zA-Z_-]+)$ index.php?kategorija=$1&podkategorija=$2&ppkat=$3&id_proiz=$4&ime_proiz=$5 [NC,L]
+RewriteRule ^upravljac/([a-zA-Z_-]+)$ upravljac/home.php?upravljac-page=$1 [NC,L]
+RewriteRule ^akcija/([0-9]+)/([0-9a-zA-Z_-]+)$ index.php?id_akcije=$1&naslov_akcije=$2
+
